@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Программирование | Hugo Academic CV Theme</title>
+    <link>https://example.com/ru/tags/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/</link>
+      <atom:link href="https://example.com/ru/tags/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/index.xml" rel="self" type="application/rss+xml" />
+    <description>Программирование</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <title>Программирование</title>
+      <link>https://example.com/ru/tags/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/</link>
+    </image>
+    
+    <item>
+      <title>Третья неделя новые открытия</title>
+      <link>https://example.com/ru/post/third-week/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/third-week/</guid>
+      <description>&lt;h2 id=&#34;неделя-открытий&#34;&gt;Неделя открытий&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;На третьей неделе я совершила прорыв в понимании ООП - наконец-то &amp;ldquo;щелкнуло&amp;rdquo; с полиморфизмом!&lt;/li&gt;
+&lt;li&gt;Переработала архитектуру своего pet-проекта на Python, применив новые знания&lt;/li&gt;
+&lt;li&gt;Освоила работу с Git через командную строку (раньше использовала только GUI)&lt;/li&gt;
+&lt;li&gt;Участвовала в университетском код-ревью - получила ценные замечания по своему коду&lt;/li&gt;
+&lt;li&gt;Открыла для себя технику Pomodoro - оказывается, 25 минут концентрации творят чудеса!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;итоги-недели&#34;&gt;Итоги недели&lt;/h2&gt;
+&lt;p&gt;Несмотря на усталость от обилия лабораторных, чувствую реальный прогресс. Особенно радует, что начала замечать закономерности в программировании - то, что раньше казалось магией, теперь обретает логику. Главное - не забывать делать перерывы и подходить к обучению системно.&lt;/p&gt;
+&lt;p&gt;P.S. Обнаружила, что лучшие решения приходят во время вечерних прогулок у общежития - странно, но факт!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

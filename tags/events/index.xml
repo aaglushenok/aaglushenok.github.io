@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events | Hugo Academic CV Theme</title>
+    <link>https://example.com/tags/events/</link>
+      <atom:link href="https://example.com/tags/events/index.xml" rel="self" type="application/rss+xml" />
+    <description>Events</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <title>Events</title>
+      <link>https://example.com/tags/events/</link>
+    </image>
+    
+    <item>
+      <title>🚀 Spring Semester Kickoff</title>
+      <link>https://example.com/post/first-week/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/first-week/</guid>
+      <description>&lt;h2 id=&#34;first-days-of-semester&#34;&gt;First Days of Semester&lt;/h2&gt;
+&lt;p&gt;The week started with a pleasant surprise - my data visualization work was selected for the university conference! Meanwhile, I&amp;rsquo;m also preparing for an upcoming machine learning hackathon.&lt;/p&gt;
+&lt;h2 id=&#34;balancing-theory-and-practice&#34;&gt;Balancing Theory and Practice&lt;/h2&gt;
+&lt;p&gt;Computer vision classes are particularly interesting - we&amp;rsquo;re finally applying knowledge to real projects. My team is working on gesture recognition for a &amp;ldquo;smart home&amp;rdquo; system. Not everything works perfectly yet, but the progress is noticeable!&lt;/p&gt;
+&lt;h2 id=&#34;extracurricular-activities&#34;&gt;Extracurricular Activities&lt;/h2&gt;
+&lt;p&gt;I attended an NLP workshop from an IT company. Now I&amp;rsquo;m planning to implement these insights in my study assistant bot. By the way, I found a great open-source project for collaborative development!&lt;/p&gt;
+&lt;h2 id=&#34;weekly-plans&#34;&gt;Weekly Plans&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Finish the prototype for neural networks lab&lt;/li&gt;
+&lt;li&gt;Prepare conference presentation&lt;/li&gt;
+&lt;li&gt;Start new Coursera module on advanced Python&lt;/li&gt;
+&lt;li&gt;Meet with the team to prepare for hackathon&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Feeling motivated, though I need more sleep than usual 😊😊&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

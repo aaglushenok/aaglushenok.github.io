@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown | Hugo Academic CV Theme</title>
+    <link>https://example.com/tags/markdown/</link>
+      <atom:link href="https://example.com/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markdown</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <title>Markdown</title>
+      <link>https://example.com/tags/markdown/</link>
+    </image>
+    
+    <item>
+      <title>Arch-pc-basic-skills</title>
+      <link>https://example.com/project/arhpc/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/arhpc/</guid>
+      <description>&lt;p&gt;My repo for subject in Uni&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Arch-pc-operation-systems</title>
+      <link>https://example.com/project/os/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/os/</guid>
+      <description>&lt;p&gt;My repo for subject in Uni&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://example.com/project/pandas/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/pandas/</guid>
+      <description>&lt;p&gt;My first site with Hugo constructor!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://example.com/post/markdown/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/markdown/</guid>
+      <description>&lt;h1 id=&#34;introduction-to-markdown&#34;&gt;Introduction to Markdown&lt;/h1&gt;
+&lt;p&gt;Markdown is a simple and convenient markup language used for formatting text. It allows you to create structured documents using plain text, which makes it an ideal tool for developers, bloggers, and technical writers. Markdown files typically have the &lt;code&gt;.md&lt;/code&gt; or &lt;code&gt;.markdown&lt;/code&gt; extension and are easily readable even in raw form without converting to HTML.&lt;/p&gt;
+&lt;h2 id=&#34;basic-formatting-elements&#34;&gt;Basic Formatting Elements&lt;/h2&gt;
+&lt;p&gt;Markdown supports many formatting elements. For example, headings are created using the &lt;code&gt;#&lt;/code&gt; symbol, and lists can be made using &lt;code&gt;-&lt;/code&gt;, &lt;code&gt;*&lt;/code&gt;, or numbers. You can format text as &lt;strong&gt;bold&lt;/strong&gt; (&lt;code&gt;**text**&lt;/code&gt;) or &lt;em&gt;italic&lt;/em&gt; (&lt;code&gt;*text*&lt;/code&gt;). Markdown also supports inserting links and images.&lt;/p&gt;
+&lt;h3 id=&#34;code-insertion&#34;&gt;Code Insertion&lt;/h3&gt;
+&lt;p&gt;One of the key features of Markdown is its support for code insertion. For inline code, use single backticks (`code`), and for code blocks, use triple backticks:&lt;/p&gt;
+&lt;p&gt;Markdown also supports tables, which are created using &lt;code&gt;|&lt;/code&gt; and &lt;code&gt;-&lt;/code&gt; characters, and blockquotes, which are created using the &lt;code&gt;&amp;gt;&lt;/code&gt; symbol.&lt;/p&gt;
+&lt;h2 id=&#34;uses-of-markdown&#34;&gt;Uses of Markdown&lt;/h2&gt;
+&lt;p&gt;Markdown is widely used for writing README files in GitHub projects, as well as for documentation and note-taking. It doesn’t require complex tools — a simple text editor is enough. Many modern editors, like VS Code, support Markdown preview, making it even easier to work with.&lt;/p&gt;
+&lt;h2 id=&#34;advantages-of-markdown&#34;&gt;Advantages of Markdown&lt;/h2&gt;
+&lt;p&gt;One of the main advantages of Markdown is its versatility. Documents written in Markdown can easily be converted to HTML, PDF, and other formats. Thanks to its simplicity and functionality, Markdown has become a popular tool for quick and convenient text formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

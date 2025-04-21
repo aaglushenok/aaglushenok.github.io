@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git | Hugo Academic CV Theme</title>
+    <link>https://example.com/tags/git/</link>
+      <atom:link href="https://example.com/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <description>Git</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <title>Git</title>
+      <link>https://example.com/tags/git/</link>
+    </image>
+    
+    <item>
+      <title>🌱 Git in Modern Development</title>
+      <link>https://example.com/post/git/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/git/</guid>
+      <description>&lt;h2 id=&#34;why-git-changed-development&#34;&gt;Why Git Changed Development&lt;/h2&gt;
+&lt;p&gt;As a computer vision developer, I deal daily with the need to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Experiment with different approaches without the fear of &amp;ldquo;breaking&amp;rdquo; working code&lt;/li&gt;
+&lt;li&gt;Collaborate on algorithms with colleagues&lt;/li&gt;
+&lt;li&gt;Track changes in complex mathematical models&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Git handles these tasks better than any of its predecessors.&lt;/p&gt;
+&lt;h2 id=&#34;evolution-of-vcs-from-rcs-to-git&#34;&gt;Evolution of VCS: From RCS to Git&lt;/h2&gt;
+&lt;h3 id=&#34;local-systems-rcs&#34;&gt;Local Systems (RCS)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;✔️ Simplicity&lt;/li&gt;
+&lt;li&gt;✖️ No team collaboration&lt;/li&gt;
+&lt;li&gt;✖️ Risk of history loss&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;centralized-systems-svn&#34;&gt;Centralized Systems (SVN)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;✔️ Shared codebase&lt;/li&gt;
+&lt;li&gt;✖️ Single point of failure&lt;/li&gt;
+&lt;li&gt;✖️ Internet dependency&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;distributed-systems-git&#34;&gt;Distributed Systems (Git)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;✔️ Full history on every developer&amp;rsquo;s machine&lt;/li&gt;
+&lt;li&gt;✔️ Work offline&lt;/li&gt;
+&lt;li&gt;✔️ Flexible workflows (GitHub Flow, Git Flow)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;practical-aspects-of-git&#34;&gt;Practical Aspects of Git&lt;/h2&gt;
+&lt;h3 id=&#34;what-i-like&#34;&gt;What I Like:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Branching&lt;/strong&gt; – I create feature branches for each experiment&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Staging area&lt;/strong&gt; – precise control over commits&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;.gitignore&lt;/strong&gt; – keeps temporary model files out of version control&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

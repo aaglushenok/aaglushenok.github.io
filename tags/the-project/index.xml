@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Project | Hugo Academic CV Theme</title>
+    <link>https://example.com/tags/the-project/</link>
+      <atom:link href="https://example.com/tags/the-project/index.xml" rel="self" type="application/rss+xml" />
+    <description>The Project</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <title>The Project</title>
+      <link>https://example.com/tags/the-project/</link>
+    </image>
+    
+    <item>
+      <title>🌟 The fifth week is the final breakthrough</title>
+      <link>https://example.com/post/5th-week/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/5th-week/</guid>
+      <description>&lt;h2 id=&#34;main-achievements&#34;&gt;Main achievements&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;I have almost completed my project on the analysis of medical images - it remains to complete the documentation&lt;/li&gt;
+&lt;li&gt;I have mastered the new features of PyCharm for code profiling&lt;/li&gt;
+&lt;li&gt;Improved the project interface, making it more user-friendly&lt;/li&gt;
+&lt;li&gt;Conducted the first successful tests on real data&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;technical-details&#34;&gt;Technical Details&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Implemented multithreaded image processing&lt;/li&gt;
+&lt;li&gt;Wrote automated tests for 85% of the codebase&lt;/li&gt;
+&lt;li&gt;Optimized memory usage, reducing consumption by 20%.%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;impressions&#34;&gt;Impressions&lt;/h2&gt;
+&lt;p&gt;I suddenly discovered that:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Documenting the code turned out to be more exciting than I thought.&lt;/li&gt;
+&lt;li&gt;Profiling is like a detective investigation&lt;/li&gt;
+&lt;li&gt;Colleagues at the university started asking for advice on Python&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;plans&#34;&gt;Plans&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Prepare the final presentation&lt;/li&gt;
+&lt;li&gt;Write an article about your decision for the university blog&lt;/li&gt;
+&lt;li&gt;Start exploring the possibilities of publishing the project as open source&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

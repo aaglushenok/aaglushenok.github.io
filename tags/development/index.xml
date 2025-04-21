@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development | Hugo Academic CV Theme</title>
+    <link>https://example.com/tags/development/</link>
+      <atom:link href="https://example.com/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <description>Development</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <title>Development</title>
+      <link>https://example.com/tags/development/</link>
+    </image>
+    
+    <item>
+      <title>🌟 Fedora — My Experience</title>
+      <link>https://example.com/post/fedora/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/fedora/</guid>
+      <description>&lt;h2 id=&#34;why-i-chose-fedora&#34;&gt;Why I Chose Fedora&lt;/h2&gt;
+&lt;p&gt;As a computer vision developer, the following are especially important to me:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Stability&lt;/strong&gt; for long-running computations&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Up-to-date versions of Python&lt;/strong&gt; and scientific libraries&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GPU support&lt;/strong&gt; for working with neural networks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-i-like&#34;&gt;What I Like&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;DNF package manager&lt;/strong&gt; – fast and convenient&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Automatic updates&lt;/strong&gt; without user intervention&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integration with Podman&lt;/strong&gt; for project containerization&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wayland support&lt;/strong&gt; – I really noticed smoother animations&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;setup-specifics&#34;&gt;Setup Specifics&lt;/h2&gt;
+&lt;p&gt;I had to tinker a bit with:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;NVIDIA drivers (solved it in 2 hours)&lt;/li&gt;
+&lt;li&gt;Setting up the Python environment for TensorFlow&lt;/li&gt;
+&lt;li&gt;Optimizing power consumption on a laptop&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;tips-for-beginners&#34;&gt;Tips for Beginners&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Start with Fedora Workstation – the most stable version&lt;/li&gt;
+&lt;li&gt;Install &lt;code&gt;rpmfusion&lt;/code&gt; for full codec support&lt;/li&gt;
+&lt;li&gt;Try &lt;code&gt;Toolbox&lt;/code&gt; for isolated development environments&lt;/li&gt;
+&lt;li&gt;Don’t be afraid of the command line – it’s especially friendly in Fedora&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;After six months of use, this is my primary OS for work and research. I recommend it to fellow developers! 🚀&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🌟 The fifth week is the final breakthrough</title>
+      <link>https://example.com/post/5th-week/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/5th-week/</guid>
+      <description>&lt;h2 id=&#34;main-achievements&#34;&gt;Main achievements&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;I have almost completed my project on the analysis of medical images - it remains to complete the documentation&lt;/li&gt;
+&lt;li&gt;I have mastered the new features of PyCharm for code profiling&lt;/li&gt;
+&lt;li&gt;Improved the project interface, making it more user-friendly&lt;/li&gt;
+&lt;li&gt;Conducted the first successful tests on real data&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;technical-details&#34;&gt;Technical Details&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Implemented multithreaded image processing&lt;/li&gt;
+&lt;li&gt;Wrote automated tests for 85% of the codebase&lt;/li&gt;
+&lt;li&gt;Optimized memory usage, reducing consumption by 20%.%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;impressions&#34;&gt;Impressions&lt;/h2&gt;
+&lt;p&gt;I suddenly discovered that:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Documenting the code turned out to be more exciting than I thought.&lt;/li&gt;
+&lt;li&gt;Profiling is like a detective investigation&lt;/li&gt;
+&lt;li&gt;Colleagues at the university started asking for advice on Python&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;plans&#34;&gt;Plans&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Prepare the final presentation&lt;/li&gt;
+&lt;li&gt;Write an article about your decision for the university blog&lt;/li&gt;
+&lt;li&gt;Start exploring the possibilities of publishing the project as open source&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🚀 The fourth week is a breakthrough in the project</title>
+      <link>https://example.com/post/4th-week/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/4th-week/</guid>
+      <description>&lt;h2 id=&#34;key-achievements-of-the-week&#34;&gt;Key achievements of the week&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Completed the main functionality of her individual computer vision project&lt;/li&gt;
+&lt;li&gt;I have mastered PyCharm Professional for working with Python projects&lt;/li&gt;
+&lt;li&gt;Improved model accuracy by 12% after algorithm optimization&lt;/li&gt;
+&lt;li&gt;Received the first positive feedback from the supervisor&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;workflow&#34;&gt;Workflow&lt;/h2&gt;
+&lt;p&gt;Switching to a professional IDE turned out to be a real game-changer:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Auto-completion of the code saves a lot of time&lt;/li&gt;
+&lt;li&gt;Built-in debugging tools help you find errors faster&lt;/li&gt;
+&lt;li&gt;Jupyter Notebook support is convenient for experimentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;plans-for-next-week&#34;&gt;Plans for next week&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Write tests for the main modules&lt;/li&gt;
+&lt;li&gt;Prepare a presentation of interim results&lt;/li&gt;
+&lt;li&gt;Start working on the web interface for the project&lt;/li&gt;
+&lt;li&gt;Explore the possibilities of integration with cloud services&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Despite the busy schedule, I feel inspired by the visible progress!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🌱 Git in Modern Development</title>
+      <link>https://example.com/post/git/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/git/</guid>
+      <description>&lt;h2 id=&#34;why-git-changed-development&#34;&gt;Why Git Changed Development&lt;/h2&gt;
+&lt;p&gt;As a computer vision developer, I deal daily with the need to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Experiment with different approaches without the fear of &amp;ldquo;breaking&amp;rdquo; working code&lt;/li&gt;
+&lt;li&gt;Collaborate on algorithms with colleagues&lt;/li&gt;
+&lt;li&gt;Track changes in complex mathematical models&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Git handles these tasks better than any of its predecessors.&lt;/p&gt;
+&lt;h2 id=&#34;evolution-of-vcs-from-rcs-to-git&#34;&gt;Evolution of VCS: From RCS to Git&lt;/h2&gt;
+&lt;h3 id=&#34;local-systems-rcs&#34;&gt;Local Systems (RCS)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;✔️ Simplicity&lt;/li&gt;
+&lt;li&gt;✖️ No team collaboration&lt;/li&gt;
+&lt;li&gt;✖️ Risk of history loss&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;centralized-systems-svn&#34;&gt;Centralized Systems (SVN)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;✔️ Shared codebase&lt;/li&gt;
+&lt;li&gt;✖️ Single point of failure&lt;/li&gt;
+&lt;li&gt;✖️ Internet dependency&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;distributed-systems-git&#34;&gt;Distributed Systems (Git)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;✔️ Full history on every developer&amp;rsquo;s machine&lt;/li&gt;
+&lt;li&gt;✔️ Work offline&lt;/li&gt;
+&lt;li&gt;✔️ Flexible workflows (GitHub Flow, Git Flow)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;practical-aspects-of-git&#34;&gt;Practical Aspects of Git&lt;/h2&gt;
+&lt;h3 id=&#34;what-i-like&#34;&gt;What I Like:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Branching&lt;/strong&gt; – I create feature branches for each experiment&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Staging area&lt;/strong&gt; – precise control over commits&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;.gitignore&lt;/strong&gt; – keeps temporary model files out of version control&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

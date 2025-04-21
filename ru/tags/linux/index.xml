@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux | Hugo Academic CV Theme</title>
+    <link>https://example.com/ru/tags/linux/</link>
+      <atom:link href="https://example.com/ru/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <description>Linux</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <title>Linux</title>
+      <link>https://example.com/ru/tags/linux/</link>
+    </image>
+    
+    <item>
+      <title>🌟 Fedora мой опыт работы</title>
+      <link>https://example.com/ru/post/fedora/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/fedora/</guid>
+      <description>&lt;h2 id=&#34;почему-я-выбрала-fedora&#34;&gt;Почему я выбрала Fedora&lt;/h2&gt;
+&lt;p&gt;Как разработчику компьютерного зрения, мне особенно важны:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Стабильность&lt;/strong&gt; для длительных вычислений&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Свежие версии Python&lt;/strong&gt; и научных библиотек&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Поддержка GPU&lt;/strong&gt; для работы с нейросетями&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;что-мне-нравится&#34;&gt;Что мне нравится&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;DNF-пакетный менеджер&lt;/strong&gt; - быстрый и удобный&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Автоматические обновления&lt;/strong&gt; без вмешательства пользователя&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Интеграция с Podman&lt;/strong&gt; для контейнеризации проектов&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Поддержка Wayland&lt;/strong&gt; - действительно заметила разницу в плавности анимаций&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;особенности-настройки&#34;&gt;Особенности настройки&lt;/h2&gt;
+&lt;p&gt;Пришлось немного повозиться с:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Драйверами NVIDIA (но решила за 2 часа)&lt;/li&gt;
+&lt;li&gt;Настройкой Python-окружения для TensorFlow&lt;/li&gt;
+&lt;li&gt;Оптимизацией энергопотребления на ноутбуке&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;советы-новичкам&#34;&gt;Советы новичкам&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Начинайте с Fedora Workstation - самая стабильная версия&lt;/li&gt;
+&lt;li&gt;Установите &lt;code&gt;rpmfusion&lt;/code&gt; для полной поддержки кодеков&lt;/li&gt;
+&lt;li&gt;Попробуйте &lt;code&gt;Toolbox&lt;/code&gt; для изолированных сред разработки&lt;/li&gt;
+&lt;li&gt;Не бойтесь командной строки - в Fedora она особенно дружелюбна&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;итог&#34;&gt;Итог&lt;/h2&gt;
+&lt;p&gt;После полугода использования - это моя основная ОС для работы и исследований. Рекомендую коллегам-разработчикам! 🚀&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Arch-pc-basic-skills</title>
+      <link>https://example.com/ru/project/arhpc/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/project/arhpc/</guid>
+      <description>&lt;p&gt;My repo for subject in Uni&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

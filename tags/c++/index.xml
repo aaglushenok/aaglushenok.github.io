@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C&#43;&#43; | Hugo Academic CV Theme</title>
+    <link>https://example.com/tags/c&#43;&#43;/</link>
+      <atom:link href="https://example.com/tags/c++/index.xml" rel="self" type="application/rss+xml" />
+    <description>C&#43;&#43;</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <title>C&#43;&#43;</title>
+      <link>https://example.com/tags/c&#43;&#43;/</link>
+    </image>
+    
+    <item>
+      <title>🌱 Programming Languages</title>
+      <link>https://example.com/post/languages/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/languages/</guid>
+      <description>&lt;h2 id=&#34;languages&#34;&gt;Languages&lt;/h2&gt;
+&lt;h1 id=&#34;choosing-a-programming-language-to-learn&#34;&gt;Choosing a Programming Language to Learn&lt;/h1&gt;
+&lt;p&gt;In today’s world, there are many programming languages, and choosing the right one to learn can be a challenging task. We’ve compiled a list of the 20 most popular languages based on the TIOBE Index, Google Trends, and StackOverflow Trends. Below are some of them, listed alphabetically.&lt;/p&gt;
+&lt;h2 id=&#34;bash&#34;&gt;Bash&lt;/h2&gt;
+&lt;p&gt;Bash is a scripting language for the Unix command shell, created by Ken Thompson in the early 1970s. It is an updated version of the Unix shell and was first released in the late 1980s. Bash is often used for writing server configuration scripts, making it a great choice for working in cloud environments with containers and microservices. Knowledge of Bash is useful since shell scripts are widely used.&lt;/p&gt;
+&lt;h3 id=&#34;use-cases&#34;&gt;Use cases:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Server administration&lt;/li&gt;
+&lt;li&gt;Command-line tools&lt;/li&gt;
+&lt;li&gt;DevOps&lt;/li&gt;
+&lt;li&gt;Virtualization&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;cobol&#34;&gt;COBOL&lt;/h2&gt;
+&lt;p&gt;COBOL is one of the oldest programming languages, created by Grace Hopper in the late 1950s to standardize the development of large business applications. This language is still in use today, and around 95% of ATM transactions go through COBOL systems. Many devices run non-stop, and major companies like IBM continue to maintain and update existing COBOL systems. It’s a good choice for those who want to work in the financial sector.&lt;/p&gt;
+&lt;h3 id=&#34;use-cases-1&#34;&gt;Use cases:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Banking and finance&lt;/li&gt;
+&lt;li&gt;International corporations&lt;/li&gt;
+&lt;li&gt;Government institutions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;cc&#34;&gt;C/C++&lt;/h2&gt;
+&lt;p&gt;C and C++ are powerful and high-performance languages that often top various rankings. C was developed by Dennis Ritchie in the early 1970s, and C++ by Bjarne Stroustrup in 1985. These languages are the foundation of many applications, including operating systems, games, and scientific computing. They are well-suited for building demanding applications where low-level hardware access and performance are important.&lt;/p&gt;
+&lt;h3 id=&#34;use-cases-2&#34;&gt;Use cases:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Operating systems and SDK development&lt;/li&gt;
+&lt;li&gt;Embedded devices&lt;/li&gt;
+&lt;li&gt;Game engines&lt;/li&gt;
+&lt;li&gt;Scientific computing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;c&#34;&gt;C#&lt;/h2&gt;
+&lt;p&gt;C# was released by Microsoft in 2000 and developed by Anders Hejlsberg as a cross-platform object-oriented programming language. Today, it is widely used for building business applications, APIs, and games. With its rich feature set, C# is suitable for working with graphics and asynchronous programming.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;This list is just a small sample of the many programming languages you can learn. Your choice depends on your goals and interests, as well as the field you want to work in.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

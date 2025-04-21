@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | Hugo Academic CV Theme</title>
+    <link>https://example.com/post/</link>
+      <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <title>Blog</title>
+      <link>https://example.com/post/</link>
+    </image>
+    
+    <item>
+      <title>🌟 Fedora — My Experience</title>
+      <link>https://example.com/post/fedora/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/fedora/</guid>
+      <description>&lt;h2 id=&#34;why-i-chose-fedora&#34;&gt;Why I Chose Fedora&lt;/h2&gt;
+&lt;p&gt;As a computer vision developer, the following are especially important to me:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Stability&lt;/strong&gt; for long-running computations&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Up-to-date versions of Python&lt;/strong&gt; and scientific libraries&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GPU support&lt;/strong&gt; for working with neural networks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-i-like&#34;&gt;What I Like&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;DNF package manager&lt;/strong&gt; – fast and convenient&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Automatic updates&lt;/strong&gt; without user intervention&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integration with Podman&lt;/strong&gt; for project containerization&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wayland support&lt;/strong&gt; – I really noticed smoother animations&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;setup-specifics&#34;&gt;Setup Specifics&lt;/h2&gt;
+&lt;p&gt;I had to tinker a bit with:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;NVIDIA drivers (solved it in 2 hours)&lt;/li&gt;
+&lt;li&gt;Setting up the Python environment for TensorFlow&lt;/li&gt;
+&lt;li&gt;Optimizing power consumption on a laptop&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;tips-for-beginners&#34;&gt;Tips for Beginners&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Start with Fedora Workstation – the most stable version&lt;/li&gt;
+&lt;li&gt;Install &lt;code&gt;rpmfusion&lt;/code&gt; for full codec support&lt;/li&gt;
+&lt;li&gt;Try &lt;code&gt;Toolbox&lt;/code&gt; for isolated development environments&lt;/li&gt;
+&lt;li&gt;Don’t be afraid of the command line – it’s especially friendly in Fedora&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;After six months of use, this is my primary OS for work and research. I recommend it to fellow developers! 🚀&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🌟 The fifth week is the final breakthrough</title>
+      <link>https://example.com/post/5th-week/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/5th-week/</guid>
+      <description>&lt;h2 id=&#34;main-achievements&#34;&gt;Main achievements&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;I have almost completed my project on the analysis of medical images - it remains to complete the documentation&lt;/li&gt;
+&lt;li&gt;I have mastered the new features of PyCharm for code profiling&lt;/li&gt;
+&lt;li&gt;Improved the project interface, making it more user-friendly&lt;/li&gt;
+&lt;li&gt;Conducted the first successful tests on real data&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;technical-details&#34;&gt;Technical Details&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Implemented multithreaded image processing&lt;/li&gt;
+&lt;li&gt;Wrote automated tests for 85% of the codebase&lt;/li&gt;
+&lt;li&gt;Optimized memory usage, reducing consumption by 20%.%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;impressions&#34;&gt;Impressions&lt;/h2&gt;
+&lt;p&gt;I suddenly discovered that:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Documenting the code turned out to be more exciting than I thought.&lt;/li&gt;
+&lt;li&gt;Profiling is like a detective investigation&lt;/li&gt;
+&lt;li&gt;Colleagues at the university started asking for advice on Python&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;plans&#34;&gt;Plans&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Prepare the final presentation&lt;/li&gt;
+&lt;li&gt;Write an article about your decision for the university blog&lt;/li&gt;
+&lt;li&gt;Start exploring the possibilities of publishing the project as open source&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🚀 The fourth week is a breakthrough in the project</title>
+      <link>https://example.com/post/4th-week/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/4th-week/</guid>
+      <description>&lt;h2 id=&#34;key-achievements-of-the-week&#34;&gt;Key achievements of the week&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Completed the main functionality of her individual computer vision project&lt;/li&gt;
+&lt;li&gt;I have mastered PyCharm Professional for working with Python projects&lt;/li&gt;
+&lt;li&gt;Improved model accuracy by 12% after algorithm optimization&lt;/li&gt;
+&lt;li&gt;Received the first positive feedback from the supervisor&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;workflow&#34;&gt;Workflow&lt;/h2&gt;
+&lt;p&gt;Switching to a professional IDE turned out to be a real game-changer:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Auto-completion of the code saves a lot of time&lt;/li&gt;
+&lt;li&gt;Built-in debugging tools help you find errors faster&lt;/li&gt;
+&lt;li&gt;Jupyter Notebook support is convenient for experimentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;plans-for-next-week&#34;&gt;Plans for next week&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Write tests for the main modules&lt;/li&gt;
+&lt;li&gt;Prepare a presentation of interim results&lt;/li&gt;
+&lt;li&gt;Start working on the web interface for the project&lt;/li&gt;
+&lt;li&gt;Explore the possibilities of integration with cloud services&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Despite the busy schedule, I feel inspired by the visible progress!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>✅ Week Two Recap</title>
+      <link>https://example.com/post/second-week/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/second-week/</guid>
+      <description>&lt;h2 id=&#34;week-kickoff&#34;&gt;Week Kickoff&lt;/h2&gt;
+&lt;p&gt;The second week started with an exciting twist - I got invited to join a university computer vision project team! This is a perfect opportunity to apply my knowledge in practice.&lt;/p&gt;
+&lt;h2 id=&#34;academic-progress&#34;&gt;Academic Progress&lt;/h2&gt;
+&lt;p&gt;The algorithms course became significantly more challenging, but consequently more engaging. I particularly enjoyed the neural network optimization task - spent two evenings on it but achieved a 15% performance boost. The professor recognized my solution as one of the best in our group.&lt;/p&gt;
+&lt;h2 id=&#34;research-work&#34;&gt;Research Work&lt;/h2&gt;
+&lt;p&gt;Began data collection for my natural language processing research. Simultaneously assisting grad students with statistical data visualization. It&amp;rsquo;s fascinating how programming skills apply across such different domains!&lt;/p&gt;
+&lt;h2 id=&#34;balance--plans&#34;&gt;Balance &amp;amp; Plans&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Completed 8 lab assignments (4 remaining)&lt;/li&gt;
+&lt;li&gt;Got selected for a summer internship at an IT company&lt;/li&gt;
+&lt;li&gt;Launched a technical blog documenting my projects&lt;/li&gt;
+&lt;li&gt;Registered for the university hackathon&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Despite the workload, I feel inspired by these new opportunities. The key is remembering to take breaks and occasionally step outside the dorm for fresh air!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🌱 Git in Modern Development</title>
+      <link>https://example.com/post/git/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/git/</guid>
+      <description>&lt;h2 id=&#34;why-git-changed-development&#34;&gt;Why Git Changed Development&lt;/h2&gt;
+&lt;p&gt;As a computer vision developer, I deal daily with the need to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Experiment with different approaches without the fear of &amp;ldquo;breaking&amp;rdquo; working code&lt;/li&gt;
+&lt;li&gt;Collaborate on algorithms with colleagues&lt;/li&gt;
+&lt;li&gt;Track changes in complex mathematical models&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Git handles these tasks better than any of its predecessors.&lt;/p&gt;
+&lt;h2 id=&#34;evolution-of-vcs-from-rcs-to-git&#34;&gt;Evolution of VCS: From RCS to Git&lt;/h2&gt;
+&lt;h3 id=&#34;local-systems-rcs&#34;&gt;Local Systems (RCS)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;✔️ Simplicity&lt;/li&gt;
+&lt;li&gt;✖️ No team collaboration&lt;/li&gt;
+&lt;li&gt;✖️ Risk of history loss&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;centralized-systems-svn&#34;&gt;Centralized Systems (SVN)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;✔️ Shared codebase&lt;/li&gt;
+&lt;li&gt;✖️ Single point of failure&lt;/li&gt;
+&lt;li&gt;✖️ Internet dependency&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;distributed-systems-git&#34;&gt;Distributed Systems (Git)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;✔️ Full history on every developer&amp;rsquo;s machine&lt;/li&gt;
+&lt;li&gt;✔️ Work offline&lt;/li&gt;
+&lt;li&gt;✔️ Flexible workflows (GitHub Flow, Git Flow)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;practical-aspects-of-git&#34;&gt;Practical Aspects of Git&lt;/h2&gt;
+&lt;h3 id=&#34;what-i-like&#34;&gt;What I Like:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Branching&lt;/strong&gt; – I create feature branches for each experiment&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Staging area&lt;/strong&gt; – precise control over commits&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;.gitignore&lt;/strong&gt; – keeps temporary model files out of version control&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🌱 Programming Languages</title>
+      <link>https://example.com/post/languages/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/languages/</guid>
+      <description>&lt;h2 id=&#34;languages&#34;&gt;Languages&lt;/h2&gt;
+&lt;h1 id=&#34;choosing-a-programming-language-to-learn&#34;&gt;Choosing a Programming Language to Learn&lt;/h1&gt;
+&lt;p&gt;In today’s world, there are many programming languages, and choosing the right one to learn can be a challenging task. We’ve compiled a list of the 20 most popular languages based on the TIOBE Index, Google Trends, and StackOverflow Trends. Below are some of them, listed alphabetically.&lt;/p&gt;
+&lt;h2 id=&#34;bash&#34;&gt;Bash&lt;/h2&gt;
+&lt;p&gt;Bash is a scripting language for the Unix command shell, created by Ken Thompson in the early 1970s. It is an updated version of the Unix shell and was first released in the late 1980s. Bash is often used for writing server configuration scripts, making it a great choice for working in cloud environments with containers and microservices. Knowledge of Bash is useful since shell scripts are widely used.&lt;/p&gt;
+&lt;h3 id=&#34;use-cases&#34;&gt;Use cases:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Server administration&lt;/li&gt;
+&lt;li&gt;Command-line tools&lt;/li&gt;
+&lt;li&gt;DevOps&lt;/li&gt;
+&lt;li&gt;Virtualization&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;cobol&#34;&gt;COBOL&lt;/h2&gt;
+&lt;p&gt;COBOL is one of the oldest programming languages, created by Grace Hopper in the late 1950s to standardize the development of large business applications. This language is still in use today, and around 95% of ATM transactions go through COBOL systems. Many devices run non-stop, and major companies like IBM continue to maintain and update existing COBOL systems. It’s a good choice for those who want to work in the financial sector.&lt;/p&gt;
+&lt;h3 id=&#34;use-cases-1&#34;&gt;Use cases:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Banking and finance&lt;/li&gt;
+&lt;li&gt;International corporations&lt;/li&gt;
+&lt;li&gt;Government institutions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;cc&#34;&gt;C/C++&lt;/h2&gt;
+&lt;p&gt;C and C++ are powerful and high-performance languages that often top various rankings. C was developed by Dennis Ritchie in the early 1970s, and C++ by Bjarne Stroustrup in 1985. These languages are the foundation of many applications, including operating systems, games, and scientific computing. They are well-suited for building demanding applications where low-level hardware access and performance are important.&lt;/p&gt;
+&lt;h3 id=&#34;use-cases-2&#34;&gt;Use cases:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Operating systems and SDK development&lt;/li&gt;
+&lt;li&gt;Embedded devices&lt;/li&gt;
+&lt;li&gt;Game engines&lt;/li&gt;
+&lt;li&gt;Scientific computing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;c&#34;&gt;C#&lt;/h2&gt;
+&lt;p&gt;C# was released by Microsoft in 2000 and developed by Anders Hejlsberg as a cross-platform object-oriented programming language. Today, it is widely used for building business applications, APIs, and games. With its rich feature set, C# is suitable for working with graphics and asynchronous programming.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;This list is just a small sample of the many programming languages you can learn. Your choice depends on your goals and interests, as well as the field you want to work in.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🎤 The Art of Effective Presentations</title>
+      <link>https://example.com/post/presentation/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/presentation/</guid>
+      <description>&lt;h2 id=&#34;preparing-a-presentation-a-scientific-approach&#34;&gt;Preparing a Presentation: A Scientific Approach&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Define the core message&lt;/strong&gt; (1 idea = 1 presentation)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Structure your content&lt;/strong&gt; using the &amp;ldquo;Minto Pyramid Principle&amp;rdquo;:
+&lt;ul&gt;
+&lt;li&gt;Start with the conclusion&lt;/li&gt;
+&lt;li&gt;Support it with 3–5 arguments&lt;/li&gt;
+&lt;li&gt;Add supporting data&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;technical-aspects-in-powerpoint&#34;&gt;Technical Aspects in PowerPoint&lt;/h2&gt;
+&lt;h3 id=&#34;professional-tips&#34;&gt;Professional Tips:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Use &lt;strong&gt;master slides&lt;/strong&gt; for consistency&lt;/li&gt;
+&lt;li&gt;Apply a &lt;strong&gt;limited color palette&lt;/strong&gt; (3 main colors)&lt;/li&gt;
+&lt;li&gt;Follow the &lt;strong&gt;6x6 rule&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;No more than 6 lines per slide&lt;/li&gt;
+&lt;li&gt;No more than 6 words per line&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;data-visualization&#34;&gt;Data Visualization:&lt;/h3&gt;
+&lt;div class=&#34;mermaid&#34;&gt;graph TD
+    A[Raw Data] --&gt; B(Choose Chart Type)
+    B --&gt; C{Is there a relationship?}
+    C --&gt;|Yes| D[Line/Scatter Plot]
+    C --&gt;|No| E[Bar/Pie Chart]
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🚀 Spring Semester Kickoff</title>
+      <link>https://example.com/post/first-week/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/first-week/</guid>
+      <description>&lt;h2 id=&#34;first-days-of-semester&#34;&gt;First Days of Semester&lt;/h2&gt;
+&lt;p&gt;The week started with a pleasant surprise - my data visualization work was selected for the university conference! Meanwhile, I&amp;rsquo;m also preparing for an upcoming machine learning hackathon.&lt;/p&gt;
+&lt;h2 id=&#34;balancing-theory-and-practice&#34;&gt;Balancing Theory and Practice&lt;/h2&gt;
+&lt;p&gt;Computer vision classes are particularly interesting - we&amp;rsquo;re finally applying knowledge to real projects. My team is working on gesture recognition for a &amp;ldquo;smart home&amp;rdquo; system. Not everything works perfectly yet, but the progress is noticeable!&lt;/p&gt;
+&lt;h2 id=&#34;extracurricular-activities&#34;&gt;Extracurricular Activities&lt;/h2&gt;
+&lt;p&gt;I attended an NLP workshop from an IT company. Now I&amp;rsquo;m planning to implement these insights in my study assistant bot. By the way, I found a great open-source project for collaborative development!&lt;/p&gt;
+&lt;h2 id=&#34;weekly-plans&#34;&gt;Weekly Plans&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Finish the prototype for neural networks lab&lt;/li&gt;
+&lt;li&gt;Prepare conference presentation&lt;/li&gt;
+&lt;li&gt;Start new Coursera module on advanced Python&lt;/li&gt;
+&lt;li&gt;Meet with the team to prepare for hackathon&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Feeling motivated, though I need more sleep than usual 😊😊&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://example.com/post/markdown/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/markdown/</guid>
+      <description>&lt;h1 id=&#34;introduction-to-markdown&#34;&gt;Introduction to Markdown&lt;/h1&gt;
+&lt;p&gt;Markdown is a simple and convenient markup language used for formatting text. It allows you to create structured documents using plain text, which makes it an ideal tool for developers, bloggers, and technical writers. Markdown files typically have the &lt;code&gt;.md&lt;/code&gt; or &lt;code&gt;.markdown&lt;/code&gt; extension and are easily readable even in raw form without converting to HTML.&lt;/p&gt;
+&lt;h2 id=&#34;basic-formatting-elements&#34;&gt;Basic Formatting Elements&lt;/h2&gt;
+&lt;p&gt;Markdown supports many formatting elements. For example, headings are created using the &lt;code&gt;#&lt;/code&gt; symbol, and lists can be made using &lt;code&gt;-&lt;/code&gt;, &lt;code&gt;*&lt;/code&gt;, or numbers. You can format text as &lt;strong&gt;bold&lt;/strong&gt; (&lt;code&gt;**text**&lt;/code&gt;) or &lt;em&gt;italic&lt;/em&gt; (&lt;code&gt;*text*&lt;/code&gt;). Markdown also supports inserting links and images.&lt;/p&gt;
+&lt;h3 id=&#34;code-insertion&#34;&gt;Code Insertion&lt;/h3&gt;
+&lt;p&gt;One of the key features of Markdown is its support for code insertion. For inline code, use single backticks (`code`), and for code blocks, use triple backticks:&lt;/p&gt;
+&lt;p&gt;Markdown also supports tables, which are created using &lt;code&gt;|&lt;/code&gt; and &lt;code&gt;-&lt;/code&gt; characters, and blockquotes, which are created using the &lt;code&gt;&amp;gt;&lt;/code&gt; symbol.&lt;/p&gt;
+&lt;h2 id=&#34;uses-of-markdown&#34;&gt;Uses of Markdown&lt;/h2&gt;
+&lt;p&gt;Markdown is widely used for writing README files in GitHub projects, as well as for documentation and note-taking. It doesn’t require complex tools — a simple text editor is enough. Many modern editors, like VS Code, support Markdown preview, making it even easier to work with.&lt;/p&gt;
+&lt;h2 id=&#34;advantages-of-markdown&#34;&gt;Advantages of Markdown&lt;/h2&gt;
+&lt;p&gt;One of the main advantages of Markdown is its versatility. Documents written in Markdown can easily be converted to HTML, PDF, and other formats. Thanks to its simplicity and functionality, Markdown has become a popular tool for quick and convenient text formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week Three Breakthrough Discoveries</title>
+      <link>https://example.com/post/third-week/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/third-week/</guid>
+      <description>&lt;h2 id=&#34;discovery-week&#34;&gt;Discovery Week&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Had an OOP epiphany - polymorphism finally &amp;ldquo;clicked&amp;rdquo; after three weeks!&lt;/li&gt;
+&lt;li&gt;Refactored my Python pet-project architecture applying these new insights&lt;/li&gt;
+&lt;li&gt;Mastered Git CLI (previously only used GUI clients)&lt;/li&gt;
+&lt;li&gt;Participated in university code review - received valuable feedback on my implementation&lt;/li&gt;
+&lt;li&gt;Discovered the Pomodoro technique - 25-minute focused sprints work wonders!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;weekly-takeaways&#34;&gt;Weekly Takeaways&lt;/h2&gt;
+&lt;p&gt;Despite exhaustion from numerous labs, I&amp;rsquo;m seeing tangible progress. What excites me most is recognizing programming patterns - concepts that seemed like magic now follow logical structures. The key is maintaining balance: systematic learning with intentional breaks.&lt;/p&gt;
+&lt;p&gt;P.S. Found my best solutions emerge during evening walks near the dorm - quirky but true!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

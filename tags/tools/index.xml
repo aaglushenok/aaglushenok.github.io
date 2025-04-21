@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools | Hugo Academic CV Theme</title>
+    <link>https://example.com/tags/tools/</link>
+      <atom:link href="https://example.com/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tools</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <title>Tools</title>
+      <link>https://example.com/tags/tools/</link>
+    </image>
+    
+    <item>
+      <title>🚀 The fourth week is a breakthrough in the project</title>
+      <link>https://example.com/post/4th-week/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/4th-week/</guid>
+      <description>&lt;h2 id=&#34;key-achievements-of-the-week&#34;&gt;Key achievements of the week&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Completed the main functionality of her individual computer vision project&lt;/li&gt;
+&lt;li&gt;I have mastered PyCharm Professional for working with Python projects&lt;/li&gt;
+&lt;li&gt;Improved model accuracy by 12% after algorithm optimization&lt;/li&gt;
+&lt;li&gt;Received the first positive feedback from the supervisor&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;workflow&#34;&gt;Workflow&lt;/h2&gt;
+&lt;p&gt;Switching to a professional IDE turned out to be a real game-changer:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Auto-completion of the code saves a lot of time&lt;/li&gt;
+&lt;li&gt;Built-in debugging tools help you find errors faster&lt;/li&gt;
+&lt;li&gt;Jupyter Notebook support is convenient for experimentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;plans-for-next-week&#34;&gt;Plans for next week&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Write tests for the main modules&lt;/li&gt;
+&lt;li&gt;Prepare a presentation of interim results&lt;/li&gt;
+&lt;li&gt;Start working on the web interface for the project&lt;/li&gt;
+&lt;li&gt;Explore the possibilities of integration with cloud services&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Despite the busy schedule, I feel inspired by the visible progress!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

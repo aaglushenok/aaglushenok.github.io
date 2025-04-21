@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown | Hugo Academic CV Theme</title>
+    <link>https://example.com/ru/tags/markdown/</link>
+      <atom:link href="https://example.com/ru/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markdown</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <title>Markdown</title>
+      <link>https://example.com/ru/tags/markdown/</link>
+    </image>
+    
+    <item>
+      <title>Arch-pc-basic-skills</title>
+      <link>https://example.com/ru/project/arhpc/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/project/arhpc/</guid>
+      <description>&lt;p&gt;My repo for subject in Uni&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Arch-pc-operation-systems</title>
+      <link>https://example.com/ru/project/os/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/project/os/</guid>
+      <description>&lt;p&gt;My repo for subject in Uni&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://example.com/ru/project/pandas/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/project/pandas/</guid>
+      <description>&lt;p&gt;My first site with Hugo constructor!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Маркдаун</title>
+      <link>https://example.com/ru/post/markdown/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/markdown/</guid>
+      <description>&lt;h1 id=&#34;введение-в-markdown&#34;&gt;Введение в Markdown&lt;/h1&gt;
+&lt;p&gt;Markdown — это простой и удобный язык разметки, который используется для форматирования текста. Он позволяет создавать структурированные документы с помощью обычного текста, что делает его идеальным инструментом для разработчиков, блогеров и технических писателей. Файлы Markdown имеют расширение .md или .markdown, и они легко читаются даже в сыром виде, без преобразования в HTML.&lt;/p&gt;
+&lt;h2 id=&#34;основные-элементы-форматирования&#34;&gt;Основные элементы форматирования&lt;/h2&gt;
+&lt;p&gt;Markdown поддерживает множество элементов форматирования. Например, заголовки создаются с помощью символов #, а списки — с помощью -, * или цифр. Для выделения текста используются жирный шрифт (&lt;strong&gt;текст&lt;/strong&gt;) и курсив (&lt;em&gt;текст&lt;/em&gt;). Также Markdown позволяет вставлять ссылки и изображения.&lt;/p&gt;
+&lt;h3 id=&#34;вставка-кода&#34;&gt;Вставка кода&lt;/h3&gt;
+&lt;p&gt;Одной из ключевых особенностей Markdown является поддержка вставки кода. Для inline-кода используются одинарные кавычки (код), а для блоков кода — тройные кавычки:&lt;/p&gt;
+&lt;p&gt;Markdown также поддерживает таблицы, которые создаются с помощью символов | и -, и цитаты, которые оформляются с помощью символа &amp;gt;.&lt;/p&gt;
+&lt;h2 id=&#34;применение-markdown&#34;&gt;Применение Markdown&lt;/h2&gt;
+&lt;p&gt;Markdown широко используется для написания README-файлов в проектах на GitHub, а также для ведения документации и заметок. Он не требует сложных инструментов — достаточно обычного текстового редактора. Многие современные редакторы, такие как VS Code, поддерживают предварительный просмотр Markdown, что делает работу с ним еще удобнее.&lt;/p&gt;
+&lt;h2 id=&#34;преимущества-markdown&#34;&gt;Преимущества Markdown&lt;/h2&gt;
+&lt;p&gt;Одним из главных преимуществ Markdown является его универсальность. Документы, написанные на Markdown, можно легко конвертировать в HTML, PDF и другие форматы. Благодаря своей простоте и функциональности, Markdown стал популярным инструментом для быстрого и удобного форматирования текста.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

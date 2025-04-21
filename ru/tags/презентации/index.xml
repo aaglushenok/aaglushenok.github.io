@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Презентации | Hugo Academic CV Theme</title>
+    <link>https://example.com/ru/tags/%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8/</link>
+      <atom:link href="https://example.com/ru/tags/%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    <description>Презентации</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <title>Презентации</title>
+      <link>https://example.com/ru/tags/%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8/</link>
+    </image>
+    
+    <item>
+      <title>🎤 Искусство эффективных презентаций</title>
+      <link>https://example.com/ru/post/presentation/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/presentation/</guid>
+      <description>&lt;h2 id=&#34;подготовка-презентации-научный-подход&#34;&gt;Подготовка презентации: научный подход&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Определите ключевое сообщение&lt;/strong&gt; (1 идея = 1 презентация)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Структурируйте контент&lt;/strong&gt; по принципу &amp;ldquo;Пирамида Минто&amp;rdquo;:
+&lt;ul&gt;
+&lt;li&gt;Начните с вывода&lt;/li&gt;
+&lt;li&gt;Подкрепите 3-5 аргументами&lt;/li&gt;
+&lt;li&gt;Добавьте подтверждающие данные&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;технические-аспекты-в-powerpoint&#34;&gt;Технические аспекты в PowerPoint&lt;/h2&gt;
+&lt;h3 id=&#34;профессиональные-приёмы&#34;&gt;Профессиональные приёмы:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Используйте &lt;strong&gt;мастер-слайды&lt;/strong&gt; для единообразия&lt;/li&gt;
+&lt;li&gt;Применяйте &lt;strong&gt;ограничение цветовой палитры&lt;/strong&gt; (3 основных цвета)&lt;/li&gt;
+&lt;li&gt;Соблюдайте &lt;strong&gt;правило 6x6&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Не более 6 строк на слайде&lt;/li&gt;
+&lt;li&gt;Не более 6 слов в строке&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;визуализация-данных&#34;&gt;Визуализация данных:&lt;/h3&gt;
+&lt;div class=&#34;mermaid&#34;&gt;graph TD
+    A[Сырые данные] --&gt; B(Выбор типа диаграммы)
+    B --&gt; C{Зависимость?}
+    C --&gt;|Да| D[Линейная/точечная]
+    C --&gt;|Нет| E[Столбчатая/круговая]
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

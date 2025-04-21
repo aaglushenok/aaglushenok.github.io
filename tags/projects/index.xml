@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Hugo Academic CV Theme</title>
+    <link>https://example.com/tags/projects/</link>
+      <atom:link href="https://example.com/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <title>Projects</title>
+      <link>https://example.com/tags/projects/</link>
+    </image>
+    
+    <item>
+      <title>🚀 The fourth week is a breakthrough in the project</title>
+      <link>https://example.com/post/4th-week/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/4th-week/</guid>
+      <description>&lt;h2 id=&#34;key-achievements-of-the-week&#34;&gt;Key achievements of the week&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Completed the main functionality of her individual computer vision project&lt;/li&gt;
+&lt;li&gt;I have mastered PyCharm Professional for working with Python projects&lt;/li&gt;
+&lt;li&gt;Improved model accuracy by 12% after algorithm optimization&lt;/li&gt;
+&lt;li&gt;Received the first positive feedback from the supervisor&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;workflow&#34;&gt;Workflow&lt;/h2&gt;
+&lt;p&gt;Switching to a professional IDE turned out to be a real game-changer:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Auto-completion of the code saves a lot of time&lt;/li&gt;
+&lt;li&gt;Built-in debugging tools help you find errors faster&lt;/li&gt;
+&lt;li&gt;Jupyter Notebook support is convenient for experimentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;plans-for-next-week&#34;&gt;Plans for next week&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Write tests for the main modules&lt;/li&gt;
+&lt;li&gt;Prepare a presentation of interim results&lt;/li&gt;
+&lt;li&gt;Start working on the web interface for the project&lt;/li&gt;
+&lt;li&gt;Explore the possibilities of integration with cloud services&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Despite the busy schedule, I feel inspired by the visible progress!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>✅ Week Two Recap</title>
+      <link>https://example.com/post/second-week/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/second-week/</guid>
+      <description>&lt;h2 id=&#34;week-kickoff&#34;&gt;Week Kickoff&lt;/h2&gt;
+&lt;p&gt;The second week started with an exciting twist - I got invited to join a university computer vision project team! This is a perfect opportunity to apply my knowledge in practice.&lt;/p&gt;
+&lt;h2 id=&#34;academic-progress&#34;&gt;Academic Progress&lt;/h2&gt;
+&lt;p&gt;The algorithms course became significantly more challenging, but consequently more engaging. I particularly enjoyed the neural network optimization task - spent two evenings on it but achieved a 15% performance boost. The professor recognized my solution as one of the best in our group.&lt;/p&gt;
+&lt;h2 id=&#34;research-work&#34;&gt;Research Work&lt;/h2&gt;
+&lt;p&gt;Began data collection for my natural language processing research. Simultaneously assisting grad students with statistical data visualization. It&amp;rsquo;s fascinating how programming skills apply across such different domains!&lt;/p&gt;
+&lt;h2 id=&#34;balance--plans&#34;&gt;Balance &amp;amp; Plans&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Completed 8 lab assignments (4 remaining)&lt;/li&gt;
+&lt;li&gt;Got selected for a summer internship at an IT company&lt;/li&gt;
+&lt;li&gt;Launched a technical blog documenting my projects&lt;/li&gt;
+&lt;li&gt;Registered for the university hackathon&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Despite the workload, I feel inspired by these new opportunities. The key is remembering to take breaks and occasionally step outside the dorm for fresh air!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🚀 Spring Semester Kickoff</title>
+      <link>https://example.com/post/first-week/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/first-week/</guid>
+      <description>&lt;h2 id=&#34;first-days-of-semester&#34;&gt;First Days of Semester&lt;/h2&gt;
+&lt;p&gt;The week started with a pleasant surprise - my data visualization work was selected for the university conference! Meanwhile, I&amp;rsquo;m also preparing for an upcoming machine learning hackathon.&lt;/p&gt;
+&lt;h2 id=&#34;balancing-theory-and-practice&#34;&gt;Balancing Theory and Practice&lt;/h2&gt;
+&lt;p&gt;Computer vision classes are particularly interesting - we&amp;rsquo;re finally applying knowledge to real projects. My team is working on gesture recognition for a &amp;ldquo;smart home&amp;rdquo; system. Not everything works perfectly yet, but the progress is noticeable!&lt;/p&gt;
+&lt;h2 id=&#34;extracurricular-activities&#34;&gt;Extracurricular Activities&lt;/h2&gt;
+&lt;p&gt;I attended an NLP workshop from an IT company. Now I&amp;rsquo;m planning to implement these insights in my study assistant bot. By the way, I found a great open-source project for collaborative development!&lt;/p&gt;
+&lt;h2 id=&#34;weekly-plans&#34;&gt;Weekly Plans&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Finish the prototype for neural networks lab&lt;/li&gt;
+&lt;li&gt;Prepare conference presentation&lt;/li&gt;
+&lt;li&gt;Start new Coursera module on advanced Python&lt;/li&gt;
+&lt;li&gt;Meet with the team to prepare for hackathon&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Feeling motivated, though I need more sleep than usual 😊😊&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux | Hugo Academic CV Theme</title>
+    <link>https://example.com/tags/linux/</link>
+      <atom:link href="https://example.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <description>Linux</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <title>Linux</title>
+      <link>https://example.com/tags/linux/</link>
+    </image>
+    
+    <item>
+      <title>🌟 Fedora — My Experience</title>
+      <link>https://example.com/post/fedora/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/fedora/</guid>
+      <description>&lt;h2 id=&#34;why-i-chose-fedora&#34;&gt;Why I Chose Fedora&lt;/h2&gt;
+&lt;p&gt;As a computer vision developer, the following are especially important to me:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Stability&lt;/strong&gt; for long-running computations&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Up-to-date versions of Python&lt;/strong&gt; and scientific libraries&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GPU support&lt;/strong&gt; for working with neural networks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;what-i-like&#34;&gt;What I Like&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;DNF package manager&lt;/strong&gt; – fast and convenient&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Automatic updates&lt;/strong&gt; without user intervention&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integration with Podman&lt;/strong&gt; for project containerization&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wayland support&lt;/strong&gt; – I really noticed smoother animations&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;setup-specifics&#34;&gt;Setup Specifics&lt;/h2&gt;
+&lt;p&gt;I had to tinker a bit with:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;NVIDIA drivers (solved it in 2 hours)&lt;/li&gt;
+&lt;li&gt;Setting up the Python environment for TensorFlow&lt;/li&gt;
+&lt;li&gt;Optimizing power consumption on a laptop&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;tips-for-beginners&#34;&gt;Tips for Beginners&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Start with Fedora Workstation – the most stable version&lt;/li&gt;
+&lt;li&gt;Install &lt;code&gt;rpmfusion&lt;/code&gt; for full codec support&lt;/li&gt;
+&lt;li&gt;Try &lt;code&gt;Toolbox&lt;/code&gt; for isolated development environments&lt;/li&gt;
+&lt;li&gt;Don’t be afraid of the command line – it’s especially friendly in Fedora&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;After six months of use, this is my primary OS for work and research. I recommend it to fellow developers! 🚀&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Arch-pc-basic-skills</title>
+      <link>https://example.com/project/arhpc/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/arhpc/</guid>
+      <description>&lt;p&gt;My repo for subject in Uni&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

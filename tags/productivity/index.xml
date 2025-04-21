@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Productivity | Hugo Academic CV Theme</title>
+    <link>https://example.com/tags/productivity/</link>
+      <atom:link href="https://example.com/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <description>Productivity</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <title>Productivity</title>
+      <link>https://example.com/tags/productivity/</link>
+    </image>
+    
+    <item>
+      <title>Week Three Breakthrough Discoveries</title>
+      <link>https://example.com/post/third-week/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/third-week/</guid>
+      <description>&lt;h2 id=&#34;discovery-week&#34;&gt;Discovery Week&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Had an OOP epiphany - polymorphism finally &amp;ldquo;clicked&amp;rdquo; after three weeks!&lt;/li&gt;
+&lt;li&gt;Refactored my Python pet-project architecture applying these new insights&lt;/li&gt;
+&lt;li&gt;Mastered Git CLI (previously only used GUI clients)&lt;/li&gt;
+&lt;li&gt;Participated in university code review - received valuable feedback on my implementation&lt;/li&gt;
+&lt;li&gt;Discovered the Pomodoro technique - 25-minute focused sprints work wonders!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;weekly-takeaways&#34;&gt;Weekly Takeaways&lt;/h2&gt;
+&lt;p&gt;Despite exhaustion from numerous labs, I&amp;rsquo;m seeing tangible progress. What excites me most is recognizing programming patterns - concepts that seemed like magic now follow logical structures. The key is maintaining balance: systematic learning with intentional breaks.&lt;/p&gt;
+&lt;p&gt;P.S. Found my best solutions emerge during evening walks near the dorm - quirky but true!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

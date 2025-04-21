@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Коллаборация | Hugo Academic CV Theme</title>
+    <link>https://example.com/ru/tags/%D0%BA%D0%BE%D0%BB%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%86%D0%B8%D1%8F/</link>
+      <atom:link href="https://example.com/ru/tags/%D0%BA%D0%BE%D0%BB%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%86%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
+    <description>Коллаборация</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <title>Коллаборация</title>
+      <link>https://example.com/ru/tags/%D0%BA%D0%BE%D0%BB%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%86%D0%B8%D1%8F/</link>
+    </image>
+    
+    <item>
+      <title>🌱 Git в современной разработке</title>
+      <link>https://example.com/ru/post/git/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/git/</guid>
+      <description>&lt;h2 id=&#34;почему-git-изменил-разработку&#34;&gt;Почему Git изменил разработку&lt;/h2&gt;
+&lt;p&gt;Как разработчик компьютерного зрения, я ежедневно сталкиваюсь с необходимостью:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Экспериментировать с разными подходами без страха &amp;ldquo;сломать&amp;rdquo; рабочий код&lt;/li&gt;
+&lt;li&gt;Совместно работать над алгоритмами с коллегами&lt;/li&gt;
+&lt;li&gt;Отслеживать изменения в сложных математических моделях&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Git решает эти задачи лучше любых предшественников.&lt;/p&gt;
+&lt;h2 id=&#34;эволюция-vcs-от-rcs-к-git&#34;&gt;Эволюция VCS: от RCS к Git&lt;/h2&gt;
+&lt;h3 id=&#34;локальные-системы-rcs&#34;&gt;Локальные системы (RCS)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;✔️ Простота&lt;/li&gt;
+&lt;li&gt;✖️ Невозможность командной работы&lt;/li&gt;
+&lt;li&gt;✖️ Риск потери истории&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;централизованные-системы-svn&#34;&gt;Централизованные системы (SVN)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;✔️ Общая кодовая база&lt;/li&gt;
+&lt;li&gt;✖️ Единая точка отказа&lt;/li&gt;
+&lt;li&gt;✖️ Зависимость от интернета&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;распределённые-системы-git&#34;&gt;Распределённые системы (Git)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;✔️ Полная история у каждого разработчика&lt;/li&gt;
+&lt;li&gt;✔️ Работа оффлайн&lt;/li&gt;
+&lt;li&gt;✔️ Гибкие workflows (GitHub Flow, Git Flow)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;практические-аспекты-git&#34;&gt;Практические аспекты Git&lt;/h2&gt;
+&lt;h3 id=&#34;что-мне-нравится&#34;&gt;Что мне нравится:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Ветвление&lt;/strong&gt; - создаю feature-ветки для каждого эксперимента&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Staging area&lt;/strong&gt; - точный контроль над коммитами&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;.gitignore&lt;/strong&gt; - не отслеживаю временные файлы моде&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
